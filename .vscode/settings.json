@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "JumpProject.sln"
+    "dotnet.defaultSolution": "AMG-Activity-6.sln"
 }
